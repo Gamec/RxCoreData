@@ -30,5 +30,5 @@ Pod::Spec.new do |s|
 
     s.frameworks            = 'CoreData'
 
-    s.dependency 'RxSwift', '~> 4.3.1'
+    s.dependency 'RxSwift', '~> 5.0.0'
 end
